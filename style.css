@@ -43,23 +43,23 @@ ul {
 
 .btn-secondary,
 .btn-third:hover {
-  background: #383848;
+  background: #345848;
 }
 
 .btn-primary:hover,
 .btn-secondary:hover,
 .btn-third {
-  background: #e4b95b;
+  background: #a02500;
 }
 
 .primary-text {
-  color: #e4b95b;
+  color: #a02500;
 }
 
 /* Header Start */
 header {
   height: 100vh;
-  background: url("./img/home_bg.jpeg") center center/cover no-repeat;
+  background: url("./img/home_bg.jpg") center center/cover no-repeat;
   position: relative;
 }
 
@@ -87,7 +87,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  border-bottom: 2px solid #e4b95b;
+  border-bottom: 2px solid #a02500;
 }
 
 header .content {
@@ -187,7 +187,7 @@ header * {
 }
 
 #offers h2 {
-  color: #e4b95b;
+  color: #a02500;
 }
 
 #offers .title p {
@@ -287,7 +287,7 @@ header * {
 /* Menu Section End */
 /* Daytime section Start */
 #daytime {
-  background: url("./img/daytime_bg.jpeg") center center/cover fixed no-repeat;
+  background: url("./img/daytime_bg.jpg") center center/cover fixed no-repeat;
   color: #fff;
   text-align: center;
 }
@@ -376,7 +376,7 @@ header * {
 }
 
 #contact .contact-info p i {
-  color: #e4b95b;
+  color: #a02500;
   margin-right: 5px;
 }
 
